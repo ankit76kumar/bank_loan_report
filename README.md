@@ -1,8 +1,3 @@
-Here's a complete and professional `README.md` file for your **Bank Loan Report Summary Dashboard** project. You can copy and paste this into your GitHub repository to give viewers a clear understanding of your work, objectives, and deliverables.
-
----
-
-```markdown
 # 🏦 Bank Loan Report Summary Dashboard
 
 This project presents a comprehensive **Bank Loan Report Dashboard** built in Excel. It visually analyzes and summarizes loan data, helping users understand **loan performance**, categorize loans into **good or bad**, and assess key financial metrics. The dashboard is interactive and allows filtering for detailed insights.
